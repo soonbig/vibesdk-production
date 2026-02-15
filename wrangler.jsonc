@@ -169,7 +169,7 @@
             },
             "version": "1.0.0"
         },
-        "CUSTOM_DOMAIN": "vibecode.soonchang.com",
+        "CUSTOM_DOMAIN": "vibecode.soonchang.me",
         "MAX_SANDBOX_INSTANCES": "10",
         "SANDBOX_INSTANCE_TYPE": "standard-3"
     },
